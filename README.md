@@ -1,7 +1,7 @@
 # Full Stack Realtime Chat App
 https://chat-app-9vt7.onrender.com/
-Highlights:
 
+Highlights:
 - Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
 - Authentication and Authorization with JWT
 - Real-time messaging with Socket.io
